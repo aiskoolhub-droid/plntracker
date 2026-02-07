@@ -35,3 +35,6 @@ A sophisticated personal finance management application for tracking PLN expense
 ## 📦 Tech Stack
 - React 19 + TypeScript
 - Tailwind CSS (UI)
+- Recharts (Data Visualization)
+- Google GenAI (Gemini AI)
+- Vite (Build Tool)
